@@ -1,16 +1,50 @@
-### Hi there 👋
+### Hello there. 🤝
 
-<!--
-**jhonpe/jhonpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Jhon Pérez.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Languages
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a>
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="40"/>
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="40"/>
+        </a>
+        <br>TypeScript
+    </td>  
+  </tr>
+</table>
+
+
+### Frameworks & Libraries
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a>
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="40"/>
+      </a>
+      <br>ReactJS & React Native
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/nodejs.svg" width="40"/>
+      </a>
+      <br>NodeJS
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/bootstrap.svg" width="40"/>
+      </a>
+      <br>Bootstrap
+    </td>
+  </tr>
+</table>

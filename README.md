@@ -39,6 +39,12 @@ My name is Jhon Pérez.
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="40"/>
       </a>
       <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="40"/>
+      </a>
+      <br>TailwindCSS
     </td>     
   </tr>
 </table>
@@ -58,10 +64,11 @@ My name is Jhon Pérez.
       <a>
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" width="40"/>
       </a>
-      <br>NodeJS
+      <br>Laravel
     </td>
   </tr>
 </table>
+
 
 ### Databases
 
@@ -81,4 +88,27 @@ My name is Jhon Pérez.
     </td>
   </tr>
 </table>
+
+
+###  Version Control
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a>
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="40"/>
+      </a>
+      <br>Git
+    </td>
+  </tr>
+</table>
+
+
+### Contact
+
+Want to contact with me? </br>
+Email: nachoeuclides@outlook.com </br>
+Linkedin: https://www.linkedin.com/in/euclidesingenieria/
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TuMandado&show_icons=true&theme=dark)
 

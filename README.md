@@ -105,6 +105,6 @@ My name is Jhon Pérez.
 ### Contact
 
 Want to contact with me? </br>
-Email: nachoeuclides@outlook.com </br>
-Linkedin: https://www.linkedin.com/in/euclidesingenieria/
+Email: jhon7925@gmail.com </br>
+Linkedin: https://www.linkedin.com/in/jhonpe/
 

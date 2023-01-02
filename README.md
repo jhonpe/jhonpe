@@ -44,27 +44,41 @@ My name is Jhon Pérez.
 </table>
 
 
-### Frameworks & Libraries
+### Backend
 
 <table>
   <tr>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="40"/>
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="40"/>
       </a>
-      <br>ReactJS & React Native
+      <br>ReactJS
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/nodejs.svg" width="40"/>
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" width="40"/>
       </a>
       <br>NodeJS
     </td>
+  </tr>
+</table>
+
+### Databases
+
+<table>
+  <tr>
     <td align="center" width="96">
       <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/bootstrap.svg" width="40"/>
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width="40"/>
       </a>
-      <br>Bootstrap
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="40"/>
+      </a>
+      <br>MySQL
     </td>
   </tr>
 </table>
+

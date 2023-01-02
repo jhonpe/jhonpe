@@ -6,8 +6,22 @@ My name is Jhon Pérez.
 
 ### Languages
 
+### Frontend
+
 <table>
   <tr>
+    <td align="center" width="96">
+      <a>
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="40"/>
+      </a>
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="40"/>
+      </a>
+      <br>CSS
+    </td>
     <td align="center" width="96">
       <a>
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="40"/>
@@ -16,10 +30,16 @@ My name is Jhon Pérez.
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="40"/>
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="40"/>
         </a>
-        <br>TypeScript
-    </td>  
+        <br>ReactJS
+    </td> 
+    <td align="center" width="96">
+      <a>
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="40"/>
+      </a>
+      <br>Next.js
+    </td>     
   </tr>
 </table>
 

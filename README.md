@@ -106,5 +106,5 @@ My name is Jhon Pérez.
 
 Want to contact with me? </br>
 Email: jhon7925@gmail.com </br>
-Linkedin: https://www.linkedin.com/in/jhonpe/
+Linkedin: https://www.linkedin.com/in/jhonperezamelines/
 

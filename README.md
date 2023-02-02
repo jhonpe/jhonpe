@@ -104,6 +104,6 @@ My name is Jhon Pérez.
 
 ### Contact
 
-Email: jhonjeinerperez@gmail.com@gmail.com </br>
+Email: jhonjeinerperez@gmail.com </br>
 Linkedin: https://www.linkedin.com/in/jhonperezamelines/
 
